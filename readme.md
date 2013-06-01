@@ -22,13 +22,16 @@ Example video
 
 This [example video](http://www.youtube.com/watch?v=WplkU20gidc) shows a recording of some basic movement patterns recorded with the KinectRecorder. This application allows for easy recording of one combined video file from the two inputs (regular video image and depth image) on a Kinect sensor device. This may be useful for analytical applications or for testing performance setups when not having access to a Kinect device.
 
+Requirements
+------------
+
+- [Max](cycling74.com/products/maxmspjitter/) from Cycling '74
+- [Jamoma](http://jamoma.org/)
+
 
 Author
 -------
-Alexander Refsum Jensenius  
-http://www.arj.no  
-arjensenius@gmail.com  
-
+Alexander Refsum Jensenius --- http://www.arj.no  
 University of Oslo, Department of Musicology, fourMs lab
 
 
